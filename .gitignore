@@ -10,4 +10,3 @@ yarn.lock
 
 /target
 Cargo.lock
-/openapi3-parser

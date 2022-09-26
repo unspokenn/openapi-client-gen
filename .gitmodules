@@ -1,0 +1,3 @@
+[submodule "openapi3-parser"]
+	path = openapi3-parser
+	url = git@github.com:unspokenn/openapi3-parser.git
